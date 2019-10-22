@@ -60,3 +60,4 @@ buck-out/
 
 #VS Code
 .vscode/
+.vscode
