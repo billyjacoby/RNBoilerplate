@@ -27,6 +27,7 @@ const HomeStack = createStackNavigator(
         marginBottom: 10,
       },
     },
+    // headerMode: 'none',
   },
 );
 
